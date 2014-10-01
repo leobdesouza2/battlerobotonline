@@ -1,0 +1,15 @@
+<div style="text-align: center;">
+<object base="http://www.sploder.com" data="http://www.sploder.com/player.php?s=d0042y27&amp;nocache=1" height="300" id="game" salign="LT" scale="noscale" type="application/x-shockwave-flash" width="400">
+    <param name="base" value="http://www.sploder.com" />
+    <param name="movie" value="http://www.sploder.com/player.php?s=d0042y27" />
+    <param name="s" value="d0042y27" />
+    <param name="scale" value="noscale" />
+    <param name="salign" value="LT" />
+    <param name="bgcolor" value="#333333" />
+    <!-- embedded thumbnail -->
+    <a href="http://www.sploder.com/?s=d0042y27" target="_blank" title="Sploder, Make Your Own Games"><img src="http://sploder.com/users/group1701/user1701955_20131128172140/thumbs/proj6129977.png" alt="Battle Robot" /><br />Play Game</a>
+    <!-- end thumbnail --> 
+</object><br />
+<br />
+Desenvolvido Por: <a href="https://www.facebook.com/leonardo.barbosadesouza.5" target="_blank">Leonardo Barbosa de Souza</a><br />
+<br /></div>
